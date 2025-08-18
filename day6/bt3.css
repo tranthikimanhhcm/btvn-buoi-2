@@ -1,0 +1,20 @@
+body {
+    font-family: "Georgia", serif;
+    text-align: center;
+    line-height: 1.8;
+}
+h1 {
+    color: #b22222;
+    text-transform: uppercase;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+p {
+    font-size: 20px;
+    text-align: left;
+}
+.first-letter {
+    font-size: 36px;
+    color: #b22222;
+    font-weight: bold;
+}

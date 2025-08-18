@@ -1,0 +1,19 @@
+p {
+    font-size: 25px;
+    line-height: 1.5;
+    font-family: "Open Sans", sans-serif;
+}
+@font-face {
+    font-family: "SVN Fontbox";
+    src: url("../font/SVN-Fontbox-Boathouse-Filled.otf");
+}
+p {
+    font-size: 25;
+    line-height: 1.5;
+    font-family:"open sans",Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+h2 {
+    font-family: "SVN Fontbox", sans-serif;
+    font-size: 50px;
+}
